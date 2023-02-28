@@ -8,3 +8,5 @@ npm run build
 firebase deploy
 
 # Obs: este projeto foi salvo na nuvem do Firebase (que pertence ao google) para que podéssemos ter uma URL e rodar o projeto de qualquer dispositivo em qualquer lugar.
+
+3. Copia o Hosting URL (https://reactapp-basico.web.app) e cola no browser e dar 'enter'.
